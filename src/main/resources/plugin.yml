@@ -1,0 +1,10 @@
+name: Hat
+version: ${project.version}
+main: pl.haksiu.hat.Hat
+api-version: 1.16
+authors: [ Haksiu ]
+description: Hat Command
+commands:
+  hat:
+    description: Simply hold a single block or item in your hand
+    usage: /<command>
